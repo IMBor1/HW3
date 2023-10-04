@@ -39,7 +39,7 @@ public class Main {
         int machinePerfomansFor3Days = machinePerfomanceForDay * 3;
         System.out.println("За 3 дня машина произвела " + machinePerfomansFor3Days +
                 " штук бутылок");
-        int machinePerfomanceForMonth = machinePerfomansFor3Days * 3;
+        int machinePerfomanceForMonth = machinePerfomansFor3Days * 10;
         System.out.println("За месяц машина произвела " + machinePerfomanceForMonth +
                 " штук бутылок");
 
